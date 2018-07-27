@@ -1,0 +1,67 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - AMap2DMap-NO-IDFA (4.6.0):
+    - AMapFoundation-NO-IDFA (~> 1.3)
+  - AMapFoundation-NO-IDFA (1.4.0)
+  - AMapLocation-NO-IDFA (2.3.1):
+    - AMapFoundation-NO-IDFA (~> 1.3)
+  - AMapSearch-NO-IDFA (5.0.0):
+    - AMapFoundation-NO-IDFA (~> 1.2)
+  - FDFullscreenPopGesture (1.1)
+  - HUPhotoBrowser (1.2.5)
+  - IQKeyboardManager (4.0.9)
+  - MJRefresh (3.1.12)
+  - SDAutoLayout (1.53)
+  - SDCycleScrollView (1.66):
+    - SDWebImage (~> 4.0.0)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - AMap2DMap-NO-IDFA
+  - AMapLocation-NO-IDFA
+  - AMapSearch-NO-IDFA
+  - FDFullscreenPopGesture (= 1.1)
+  - HUPhotoBrowser (~> 1.2.4)
+  - IQKeyboardManager
+  - MJRefresh (~> 3.1.12)
+  - SDAutoLayout (~> 1.3)
+  - SDCycleScrollView (~> 1.64)
+  - SDWebImage
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  AMap2DMap-NO-IDFA: 01c80e7e93568617b1b1b452cfec71f974f5bc8a
+  AMapFoundation-NO-IDFA: d1ba541a56737c2048115a745b1dfcbe9901c248
+  AMapLocation-NO-IDFA: 7df5ab4b618d96665551afb0c6426f79db72a4a6
+  AMapSearch-NO-IDFA: 8fb4e844c27031f6791d5edce16fdd2a5cfac028
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  HUPhotoBrowser: ffc1dfd33150cf9fa59cf02277a1701bf8472a0b
+  IQKeyboardManager: 322c7405df3eb5f7e50dede32ea937bf3d4364e0
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  SDAutoLayout: ea6e2ae9fbb438aa2feb0c4363dba9297e98638a
+  SDCycleScrollView: e3ade90e9b3159bec04330b208fbfd81c3f3b671
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: ba9a4a1a1038903aedcda4755269150bbb9f5827
+
+COCOAPODS: 1.2.1
